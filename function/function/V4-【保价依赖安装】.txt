@@ -1,0 +1,4 @@
+V4-【保价依赖安装】
+function文件解压到scripts
+一、容器shell 输入cd scripts
+二、npm install jsdom
